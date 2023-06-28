@@ -3,7 +3,7 @@ DSA Problems collected from multiple sources and their Solution
 - [x] Conditions and Loops
 - [x] Switch Case
 - [x] Basic Problems using Methods
-- [ ] Arrays
+- [x] Arrays (*in progress*)
 - [ ] Searching
 - [ ] Sorting 
 - [ ] Strings
