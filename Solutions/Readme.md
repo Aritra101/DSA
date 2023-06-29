@@ -4,7 +4,8 @@
 
 | S.No. | Topic                      | Status|
 |-------|----------------------------|-------|
-| 01.   | [Array](/Arrays)           | 28/28 |
-| 02.   | [Searching](/Searching)    | 21/38 |
-| 03.   | [Sorting](/Sorting)        | 07/38 |
-| 04.   | [Strings](/String)         | 08/29 |
+| 01.   | [Conditions and Loops](/Conditions and Loops)           | 15/15 |
+| 02.   | [Array](/Arrays)           | 28/28 |
+| 03.   | [Searching](/Searching)    | 21/38 |
+| 04.   | [Sorting](/Sorting)        | 07/38 |
+| 05.   | [Strings](/String)         | 08/29 |
