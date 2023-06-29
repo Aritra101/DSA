@@ -4,7 +4,7 @@
 
 | S.No. | Topic                      | Status|
 |-------|----------------------------|-------|
-| 01.   | [Conditions and Loops](/tree/master/Solutions/Conditions%20and%20Loops)           | 15/15 |
+| 01.   | [Conditions and Loops](https://github.com/Aritra101/DSA/tree/master/Solutions/Conditions%20and%20Loops)           | 15/15 |
 | 02.   | [Array](/Arrays)           | 28/28 |
 | 03.   | [Searching](/Searching)    | 21/38 |
 | 04.   | [Sorting](/Sorting)        | 07/38 |
