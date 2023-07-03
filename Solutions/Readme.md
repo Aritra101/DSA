@@ -5,7 +5,8 @@
 | S.No. | Topic                      | Status|
 |-------|----------------------------|-------|
 | 01.   | [Conditions and Loops](https://github.com/Aritra101/DSA/tree/master/Solutions/Conditions%20and%20Loops)           | 13/13 |
-| 02.   | [Array](/Arrays)           | 28/28 |
-| 03.   | [Searching](/Searching)    | 21/38 |
-| 04.   | [Sorting](/Sorting)        | 07/38 |
-| 05.   | [Strings](/String)         | 08/29 |
+| 02.   | [Methods](https://github.com/Aritra101/DSA/tree/master/Solutions/Methods)           | 16/16 |
+| 03.   | [Array](/Arrays)           | 28/28 |
+| 04.   | [Searching](/Searching)    | 21/38 |
+| 05.   | [Sorting](/Sorting)        | 07/38 |
+| 06.   | [Strings](/String)         | 08/29 |
