@@ -4,7 +4,7 @@ DSA Problems collected from multiple sources and their Solution
 - [x] Switch Case
 - [x] Basic Problems using Methods
 - [x] Arrays (*in progress*)
-- [ ] Searching
+- [ ] Searchin
 - [ ] Sorting 
 - [ ] Strings
 - [ ] Patterns
