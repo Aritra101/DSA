@@ -1,5 +1,5 @@
 # DSA
-DSA Problems collected from multiple sources and their Soluti
+DSA Problems collected from multiple sources and their Solut
 - [x] Conditions and Loops
 - [x] Switch Case
 - [x] Basic Problems using Methods
